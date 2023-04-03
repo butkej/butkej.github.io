@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Joshua Butke"
+title                    : "Dr. Joshua Butke | Personal Homepage"
 title_separator          : "-"
 name                     : &name "Joshua Butke"
 description              : &description "Curious ML researcher"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Joshua Butke"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "headshot.png"
+  bio              : "Gateway Fellow / Postdoc at MDL Tsukuba"
   location         : "Greater Tokyo Area, Japan"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=vX7K5woAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
